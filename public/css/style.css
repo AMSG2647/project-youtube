@@ -1,0 +1,10 @@
+.search input{
+    border: 1px solid gray;
+    border-radius: 5px;
+    padding: 5px;
+}
+
+.search input:focus{
+    border: 1px solid #ffffff ;
+    border-radius: 5px;
+}
